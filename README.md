@@ -1,7 +1,7 @@
-👋 Hi, I’m @TekyAms  
-👀 I’m interested in data engineering, AI, and network security. I also have a passion for UI/UX design.  
+👋 Hi, I’m Tekiyath AMOUSSA
+👀 I’m interested in data engineering and AI. I also have a passion for UI/UX design.  
 🌱 I’m currently learning advanced data science techniques, cloud computing (AWS), and improving my machine learning skills.  
-💞️ I’m looking to collaborate on projects related to data analysis, machine learning, network security, and AI-powered applications.  
+💞️ I’m looking to collaborate on projects related to data analysis, machine learning and AI-powered applications.  
 📫 How to reach me: You can connect with me on LinkedIn or via email.  
 
 <!---
