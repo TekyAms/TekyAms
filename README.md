@@ -9,7 +9,7 @@
 <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="320px">
 
 <p align="left" style="line-height: 2;">
-🔭 Artificial Intelligence and Data Engineer| Designer UI/UX<br>👯 Open to collaborate on various projects<br>🤝 Looking for internships in companies<br>🌱 Ease of adaptation to different environments<br>📫 Contact me: atekiyath@gmail.com<br>⚡ Center of interest: Technological monitoring, graphics and I like cooking </p>
+🔭 Artificial Intelligence and Data Engineer| UI/UX Designer<br>👯 Open to collaborate on various projects<br>🤝 Looking for internships in companies<br>🌱 Ease of adaptation to different environments<br>📫 Contact me: atekiyath@gmail.com<br>⚡ Center of interest: Technological monitoring, graphics and I like cooking </p>
 </p>
 
 
